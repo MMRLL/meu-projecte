@@ -1,1 +1,4 @@
-"print('Hola m¢n')"
+def suma(a, b):
+return a + b
+print(f"El resultat de la suma Ã©s: {suma(2, 3)}")
+
